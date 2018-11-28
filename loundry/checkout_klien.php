@@ -4,9 +4,9 @@
 	</div>
 		    
 	<div class="ten wide column">
-		<h3 class="ui header">Nama Jasa Laundry</h3>
+		<h3 class="ui header">Mbah Laundry</h3>
 		<br>
-		Alamat Jasa Laundry
+		Jl. 
 	</div>
 	<div class="ui centered row">
 		<select class="ui dropdown">
@@ -46,7 +46,7 @@
 		<br>
 		<br>
 	<form class="ui grid row" method="get">
-	<input type="hidden" name="p" value="telah_diproses_klien" placeholder="">
+	<input type="hidden" name="p" value="<?php if(isset($_GET['user'])){echo "telah_diproses_klien";}else{echo "akun_klien";} ?>" placeholder="">
 	<!-- start KG -->
 	 <div class="ui centered four column row" id="kg">
 	  <div class="ten wide column">

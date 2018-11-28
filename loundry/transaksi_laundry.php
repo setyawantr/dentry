@@ -17,7 +17,7 @@
 		<div class="ui sixteen wide column row">
 			<br>
 			<!-- PC start -->
-			<div class="ui mini fluid stackable steps computer only grid">
+			<div class="ui mini fluid stackable steps computer tablet only grid">
 			  <div class="step">
 			    <i class="truck icon"></i>
 			    <div class="content">

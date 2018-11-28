@@ -41,7 +41,7 @@
 		  <i class="help icon"></i>
 		  	Kontak
 		  </a>
-		   <a class="item blue right" href="?p=akun_klien">
+		   <a class="item active blue right" href="?p=akun_klien">
 		  <i class="user icon"></i>
 		  	Akun
 		  </a>

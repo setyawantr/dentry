@@ -1,5 +1,5 @@
 <!-- PC  -->
-    <div class="ui icon inverted blue borderless tabular menu computer only grid" id="bottomborder">
+    <div class="ui icon inverted blue borderless tabular menu computer tablet only grid" id="bottomborder">
 		  <a class="item blue" href="?p">
 		  <i class="home icon"></i>
 		  	Home

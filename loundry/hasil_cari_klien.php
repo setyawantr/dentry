@@ -97,7 +97,19 @@
 		    
 	  	</div>
 	</div>
-	
+<?php 
+if (isset($_GET['user'])) {
+?>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$(".card").click(function(){
+			window.location.href = "?p=checkout_klien&user";
+		});
+	});
+</script>
+<?php
+}else{
+ ?>
 <script type="text/javascript">
 	$(document).ready(function(){
 		$(".card").click(function(){
@@ -105,3 +117,6 @@
 		});
 	});
 </script>
+ <?php 
+ 	}
+  ?>

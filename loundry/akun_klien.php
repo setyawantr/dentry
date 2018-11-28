@@ -18,7 +18,7 @@
 
 </div><p><p>
 	<div class="ui centered one column grid">
-	<a class="item blue" href="?p=hasil_cari_klien">
+	<a class="item blue" href="?p=hasil_cari_klien&user">
 		<button class="ui primary button">
 	<i class="home ">Login</i> </button>
 			<p> <p>
