@@ -15,7 +15,11 @@
 		  <a class="item blue" href="?p=bantuan_klien">
 		  <i class="help icon"></i>
 		  	Kontak
-		   <a class="item blue right" href="?p=akun_klien">
+		   <a class="item blue" href="?p=login">
+		  <i class="tint icon"></i>
+		  	Laundry Area
+		  </a>
+		  <a class="item blue right" href="?p=akun_klien">
 		  <i class="user icon"></i>
 		  	Akun
 		  </a>
@@ -40,6 +44,10 @@
 		  <a class="item active blue" href="?p=bantuan_klien">
 		  <i class="help icon"></i>
 		  	Kontak
+		  </a>
+		  <a class="item active blue" href="?p=login">
+		  <i class="tint icon"></i>
+		  	Laundry
 		  </a>
 		   <a class="item active blue right" href="?p=akun_klien">
 		  <i class="user icon"></i>

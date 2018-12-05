@@ -20,7 +20,9 @@
 	</div>
 
 </div>
+  <a href="laundry.php">
   <div class="ui primary submit button">Submit</div>
+  </a>
 </div>
 </div>
 <div clas="ui center column">
