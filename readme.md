@@ -1,2 +1,2 @@
-## Aplikasi Jasa Laundry Dentry
+## PTOTOTYPE Aplikasi Jasa Laundry Dentry
 ![Mobile](mobile.png)
