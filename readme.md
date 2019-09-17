@@ -1,3 +1,5 @@
 ## PROTOTYPE Aplikasi Jasa Laundry Dentry
 ![Mobile](mobile.png)
-#[Demo](https://ribuantahun.000webhostapp.com/)
+```bash
+[Demo](https://ribuantahun.000webhostapp.com/)
+```
